@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Jeremy Rothschild</h1>
 <h3 align="center">a Physics Ph.D. candidate at the University of Toronto</h3>
 
-/* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbrothschild" alt="jbrothschild" /></a> </p> */
-
 - 🔭 I’m currently working on **stochastic population dynamics, text generation and football analytics.**
 
 - 🌱 I’m currently learning **data science, machine learning and photography**
