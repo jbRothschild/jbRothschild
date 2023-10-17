@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jeremy Rothschild</h1>
-<h3 align="center">a Physics Ph.D. candidate at the University of Toronto</h3>
+<h3 align="center">a Physics Ph.D. transitioning into a data science and quantitative analyst role.</h3>
 
 - 🔭 I’m currently working on **stochastic population dynamics, text generation and football analytics.**
 
