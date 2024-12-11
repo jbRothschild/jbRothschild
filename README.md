@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jeremy Rothschild</h1>
-<h3 align="center">a Research and Data Scientist trying to find the time to copmplete some personal projects!</h3>
+<h3 align="center">a research and data scientist trying to find the time to copmplete some personal projects!</h3>
 
 - 🔭 I’m currently working on **stochastic circuitry numerics, generative AI and my photography.**
 
