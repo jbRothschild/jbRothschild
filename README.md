@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Jeremy Rothschild</h1>
-<h3 align="center">a Physics Ph.D. transitioning into a data science and quantitative analyst role.</h3>
+<h3 align="center">a Research and Data Scientist trying to find the time to copmplete some personal projects!</h3>
 
-- 🔭 I’m currently working on **stochastic population dynamics, text generation and football analytics.**
+- 🔭 I’m currently working on **stochastic circuitry numerics, generative AI and my photography.**
 
-- 🌱 I’m currently learning **data science, machine learning and photography**
+- 🌱 I’m currently learning **information geometry, linux systems and data management software.**
 
 - 👯 I’m looking to collaborate on **interesting new data projects concerning social problems!**
 
